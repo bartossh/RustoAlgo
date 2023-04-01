@@ -16,6 +16,8 @@ Exercism tasks and algorithms written in Rust.
 
 [gigasecond](https://github.com/bartossh/RustoAlgo/tree/main/gigasecond)
 
+[grade-school](https://github.com/bartossh/RustoAlgo/tree/main/grade-school)
+
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
 [pascals-triangle](https://github.com/bartossh/RustoAlgo/tree/main/pascals-triangle)
