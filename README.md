@@ -6,6 +6,8 @@ Exercism tasks and algorithms written in Rust.
 
 [acronym](https://github.com/bartossh/RustoAlgo/tree/main/acronym)
 
+[alphametics](https://github.com/bartossh/RustoAlgo/tree/main/alphametics)
+
 [anagram](https://github.com/bartossh/RustoAlgo/tree/main/anagram)
 
 [armstrong-number](https://github.com/bartossh/RustoAlgo/tree/main/armstrong-number)
