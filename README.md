@@ -18,6 +18,8 @@ Exercism tasks and algorithms written in Rust.
 
 [grade-school](https://github.com/bartossh/RustoAlgo/tree/main/grade-school)
 
+[isogram](https://github.com/bartossh/RustoAlgo/tree/main/isogram)
+
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
 [pascals-triangle](https://github.com/bartossh/RustoAlgo/tree/main/pascals-triangle)
