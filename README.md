@@ -22,6 +22,8 @@ Exercism tasks and algorithms written in Rust.
 
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
+[pangram](https://github.com/bartossh/RustoAlgo/tree/main/pangram)
+
 [pascals-triangle](https://github.com/bartossh/RustoAlgo/tree/main/pascals-triangle)
 
 [sublist](https://github.com/bartossh/RustoAlgo/tree/main/sublist)
