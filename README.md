@@ -14,6 +14,8 @@ Exercism tasks and algorithms written in Rust.
 
 [binary-search](https://github.com/bartossh/RustoAlgo/tree/main/binary-search)
 
+[diffie-hellman](https://github.com/bartossh/RustoAlgo/tree/main/diffie-hellman)
+
 [gigasecond](https://github.com/bartossh/RustoAlgo/tree/main/gigasecond)
 
 [grade-school](https://github.com/bartossh/RustoAlgo/tree/main/grade-school)
