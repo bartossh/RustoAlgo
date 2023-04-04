@@ -26,6 +26,8 @@ Exercism tasks and algorithms written in Rust.
 
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
+[nucleotide-count](https://github.com/bartossh/RustoAlgo/tree/main/nucleotide-count)
+
 [pangram](https://github.com/bartossh/RustoAlgo/tree/main/pangram)
 
 [pascals-triangle](https://github.com/bartossh/RustoAlgo/tree/main/pascals-triangle)
