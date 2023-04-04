@@ -20,6 +20,8 @@ Exercism tasks and algorithms written in Rust.
 
 [grade-school](https://github.com/bartossh/RustoAlgo/tree/main/grade-school)
 
+[hamming](https://github.com/bartossh/RustoAlgo/tree/main/hamming)
+
 [isogram](https://github.com/bartossh/RustoAlgo/tree/main/isogram)
 
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
