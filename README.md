@@ -26,6 +26,8 @@ Exercism tasks and algorithms written in Rust.
 
 [isogram](https://github.com/bartossh/RustoAlgo/tree/main/isogram)
 
+[luhn](https://github.com/bartossh/RustoAlgo/tree/main/luhn)
+
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
 [nucleotide-count](https://github.com/bartossh/RustoAlgo/tree/main/nucleotide-count)
