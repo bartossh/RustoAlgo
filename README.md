@@ -38,4 +38,6 @@ Exercism tasks and algorithms written in Rust.
 
 [pascals-triangle](https://github.com/bartossh/RustoAlgo/tree/main/pascals-triangle)
 
+[saddle-points](https://github.com/bartossh/RustoAlgo/tree/main/saddle-points)
+
 [sublist](https://github.com/bartossh/RustoAlgo/tree/main/sublist)
