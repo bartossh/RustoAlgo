@@ -32,6 +32,8 @@ Exercism tasks and algorithms written in Rust.
 
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
+[nth-prime](https://github.com/bartossh/RustoAlgo/tree/main/nth-prime)
+
 [nucleotide-count](https://github.com/bartossh/RustoAlgo/tree/main/nucleotide-count)
 
 [pangram](https://github.com/bartossh/RustoAlgo/tree/main/pangram)
