@@ -43,3 +43,5 @@ Exercism tasks and algorithms written in Rust.
 [saddle-points](https://github.com/bartossh/RustoAlgo/tree/main/saddle-points)
 
 [sublist](https://github.com/bartossh/RustoAlgo/tree/main/sublist)
+
+[sum-of-multiples](https://github.com/bartossh/RustoAlgo/tree/main/sum-of-multiples)
