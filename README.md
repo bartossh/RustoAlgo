@@ -40,6 +40,8 @@ Exercism tasks and algorithms written in Rust.
 
 [pascals-triangle](https://github.com/bartossh/RustoAlgo/tree/main/pascals-triangle)
 
+[prime-factors](https://github.com/bartossh/RustoAlgo/tree/main/prime-factors)
+
 [saddle-points](https://github.com/bartossh/RustoAlgo/tree/main/saddle-points)
 
 [sublist](https://github.com/bartossh/RustoAlgo/tree/main/sublist)
