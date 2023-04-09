@@ -16,6 +16,8 @@ Exercism tasks and algorithms written in Rust.
 
 [clock](https://github.com/bartossh/RustoAlgo/tree/main/clock)
 
+[difference-of-squares](https://github.com/bartossh/RustoAlgo/tree/main/difference-of-squares)
+
 [diffie-hellman](https://github.com/bartossh/RustoAlgo/tree/main/diffie-hellman)
 
 [gigasecond](https://github.com/bartossh/RustoAlgo/tree/main/gigasecond)
