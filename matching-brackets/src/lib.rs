@@ -30,10 +30,7 @@ pub fn brackets_are_balanced(string: &str) -> bool {
 
 fn is_match(c: &char, queue: &mut Vec<char>) -> bool {
     if let Some(v) = queue.pop() {
-        if v != *c {
-            return false;
-        }
-        return true;
+        return v == *c;
     }
     false
 }
