@@ -32,6 +32,8 @@ Exercism tasks and algorithms written in Rust.
 
 [luhn](https://github.com/bartossh/RustoAlgo/tree/main/luhn)
 
+[matching-brackets](https://github.com/bartossh/RustoAlgo/tree/main/matching-brackets)
+
 [minesweeper](https://github.com/bartossh/RustoAlgo/tree/main/minesweeper)
 
 [nth-prime](https://github.com/bartossh/RustoAlgo/tree/main/nth-prime)
