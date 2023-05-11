@@ -14,6 +14,8 @@ Exercism tasks and algorithms written in Rust.
 
 [binary-search](https://github.com/bartossh/RustoAlgo/tree/main/binary-search)
 
+[bob](https://github.com/bartossh/RustoAlgo/tree/main/bob)
+
 [clock](https://github.com/bartossh/RustoAlgo/tree/main/clock)
 
 [difference-of-squares](https://github.com/bartossh/RustoAlgo/tree/main/difference-of-squares)
