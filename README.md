@@ -12,6 +12,8 @@ Exercism tasks and algorithms written in Rust.
 
 [armstrong-number](https://github.com/bartossh/RustoAlgo/tree/main/armstrong-number)
 
+[beer-song](https://github.com/bartossh/RustoAlgo/tree/main/beer-song)
+
 [binary-search](https://github.com/bartossh/RustoAlgo/tree/main/binary-search)
 
 [bob](https://github.com/bartossh/RustoAlgo/tree/main/bob)
